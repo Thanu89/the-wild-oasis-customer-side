@@ -1,5 +1,5 @@
 # 💫 About This Project:
-A website that allows users to log in via Google and then make/delete reservations for a cabin listed on the site. All information is dynamically loaded from the supabase database.
+A website that allows users to log in via Google and then make/delete reservations for a cabin listed on the site. All information is dynamically loaded from the supabase database. Deployed on Vercel: https://the-wild-oasis-customer-side.vercel.app/
 
 
 # 💻 Tech Stack:
